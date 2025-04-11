@@ -1,4 +1,4 @@
-📊 Project Title: Call Center Performance Dashboard
+📊 **Call Center Performance Dashboard**
 🧩 Overview:
 This project showcases a comprehensive Call Center Analytics Dashboard built using Excel. It leverages real-world-like call center data to derive insights into customer satisfaction, representative performance, call volumes, and more through pivot tables and charts.
 
